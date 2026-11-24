@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+
+**Master of City and Regional Planning**  
+University of Memphis, USA | 2026
+
+**Master of Science (MSc) in Remote Sensing and GIS**  
+Jahangirnagar University, Bangladesh | 2022
+
+**Master of Urban and Regional Planning**  
+Jahangirnagar University, Bangladesh | 2017
+
+**Bachelor of Urban and Regional Planning**  
+Jahangirnagar University, Bangladesh | 2016
 
 Work experience
 ======
